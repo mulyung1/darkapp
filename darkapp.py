@@ -8,7 +8,6 @@ import pandas as pd
 #initalise the app
 app=Dash(__name__)
 
-#allow for hosting on render.
 server=app.server
 
 colors={
